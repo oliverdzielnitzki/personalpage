@@ -1,6 +1,7 @@
 <?php require_once('.\assets\layout\header.php');?>
 
     <div class="text">
+        <br>
         <p>Wenn du das lesen kannst</p>
         <p>sitzt du nahe genug am Bildschirm</p>
         <br>
