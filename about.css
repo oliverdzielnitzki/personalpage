@@ -1,0 +1,45 @@
+
+body
+{
+    background-image: url("./assets/img/yellow.jfif");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:top;
+}
+.video {
+    position: relative;
+    text-align: center;
+    
+}
+.text{
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+}
+.text h1{
+    color: white;
+}
+.text h2 {
+    animation: blink 2s infinite; 
+        color: aquamarine;
+}
+@keyframes blink  
+{
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+}
+}
+.Audio{
+    text-align: center;
+    color: red;
+    
+}
+.Audio h1 {
+    color: blueviolet;
+}
